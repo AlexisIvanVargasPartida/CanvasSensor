@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.alex.tpdm_u5_practica1.MainActivity">
+    <item
+        android:id="@+id/brujula"
+        android:orderInCategory="100"
+        android:title="Brujula"
+        app:showAsAction="never" />
+</menu>
